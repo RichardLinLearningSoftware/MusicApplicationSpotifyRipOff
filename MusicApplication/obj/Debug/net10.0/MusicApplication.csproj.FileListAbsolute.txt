@@ -12,3 +12,4 @@ C:\Users\ruize\Documents\school\OOP\SpotifyRipOff\MusicApplication\obj\Debug\net
 C:\Users\ruize\Documents\school\OOP\SpotifyRipOff\MusicApplication\obj\Debug\net10.0\MusicApplication.pdb
 C:\Users\ruize\Documents\school\OOP\SpotifyRipOff\MusicApplication\obj\Debug\net10.0\MusicApplication.genruntimeconfig.cache
 C:\Users\ruize\Documents\school\OOP\SpotifyRipOff\MusicApplication\obj\Debug\net10.0\ref\MusicApplication.dll
+C:\Users\ruize\Documents\school\OOP\SpotifyRipOff\MusicApplication\obj\Debug\net10.0\MusicApplication.sourcelink.json
