@@ -1,0 +1,14 @@
+C:\Users\ruize\Documents\school\OOP\SpotifyRipOff\MusicApplication\bin\Debug\net10.0\MusicApplication.exe
+C:\Users\ruize\Documents\school\OOP\SpotifyRipOff\MusicApplication\bin\Debug\net10.0\MusicApplication.deps.json
+C:\Users\ruize\Documents\school\OOP\SpotifyRipOff\MusicApplication\bin\Debug\net10.0\MusicApplication.runtimeconfig.json
+C:\Users\ruize\Documents\school\OOP\SpotifyRipOff\MusicApplication\bin\Debug\net10.0\MusicApplication.dll
+C:\Users\ruize\Documents\school\OOP\SpotifyRipOff\MusicApplication\bin\Debug\net10.0\MusicApplication.pdb
+C:\Users\ruize\Documents\school\OOP\SpotifyRipOff\MusicApplication\obj\Debug\net10.0\MusicApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ruize\Documents\school\OOP\SpotifyRipOff\MusicApplication\obj\Debug\net10.0\MusicApplication.AssemblyInfoInputs.cache
+C:\Users\ruize\Documents\school\OOP\SpotifyRipOff\MusicApplication\obj\Debug\net10.0\MusicApplication.AssemblyInfo.cs
+C:\Users\ruize\Documents\school\OOP\SpotifyRipOff\MusicApplication\obj\Debug\net10.0\MusicApplication.csproj.CoreCompileInputs.cache
+C:\Users\ruize\Documents\school\OOP\SpotifyRipOff\MusicApplication\obj\Debug\net10.0\MusicApplication.dll
+C:\Users\ruize\Documents\school\OOP\SpotifyRipOff\MusicApplication\obj\Debug\net10.0\refint\MusicApplication.dll
+C:\Users\ruize\Documents\school\OOP\SpotifyRipOff\MusicApplication\obj\Debug\net10.0\MusicApplication.pdb
+C:\Users\ruize\Documents\school\OOP\SpotifyRipOff\MusicApplication\obj\Debug\net10.0\MusicApplication.genruntimeconfig.cache
+C:\Users\ruize\Documents\school\OOP\SpotifyRipOff\MusicApplication\obj\Debug\net10.0\ref\MusicApplication.dll
