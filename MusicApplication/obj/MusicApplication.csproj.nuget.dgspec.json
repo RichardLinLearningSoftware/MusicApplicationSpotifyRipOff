@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ruize\\Documents\\school\\OOP\\SpotifyRipOff\\MusicApplication\\MusicApplication.csproj": {}
+    "c:\\Users\\ruize\\Documents\\school\\OOP\\SpotifyRipOff\\MusicApplication\\MusicApplication.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ruize\\Documents\\school\\OOP\\SpotifyRipOff\\MusicApplication\\MusicApplication.csproj": {
+    "c:\\Users\\ruize\\Documents\\school\\OOP\\SpotifyRipOff\\MusicApplication\\MusicApplication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ruize\\Documents\\school\\OOP\\SpotifyRipOff\\MusicApplication\\MusicApplication.csproj",
+        "projectUniqueName": "c:\\Users\\ruize\\Documents\\school\\OOP\\SpotifyRipOff\\MusicApplication\\MusicApplication.csproj",
         "projectName": "MusicApplication",
-        "projectPath": "C:\\Users\\ruize\\Documents\\school\\OOP\\SpotifyRipOff\\MusicApplication\\MusicApplication.csproj",
+        "projectPath": "c:\\Users\\ruize\\Documents\\school\\OOP\\SpotifyRipOff\\MusicApplication\\MusicApplication.csproj",
         "packagesPath": "C:\\Users\\ruize\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ruize\\Documents\\school\\OOP\\SpotifyRipOff\\MusicApplication\\obj\\",
+        "outputPath": "c:\\Users\\ruize\\Documents\\school\\OOP\\SpotifyRipOff\\MusicApplication\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ruize\\AppData\\Roaming\\NuGet\\NuGet.Config"
