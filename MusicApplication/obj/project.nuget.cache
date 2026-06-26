@@ -1,5 +1,6 @@
 {
   "version": 2,
+<<<<<<< Updated upstream
   "dgSpecHash": "H8+A4OIMP8Y=",
   "success": true,
   "projectFilePath": "C:\\Users\\joeys\\Documents\\GitHub\\MusicApplicationSpotifyRipOff\\MusicApplication\\MusicApplication.csproj",
@@ -9,5 +10,11 @@
     "C:\\Users\\joeys\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.25\\microsoft.aspnetcore.app.ref.8.0.25.nupkg.sha512",
     "C:\\Users\\joeys\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.25\\microsoft.netcore.app.host.win-x64.8.0.25.nupkg.sha512"
   ],
+=======
+  "dgSpecHash": "SO+/pcDuIGA=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\joeys\\Documents\\GitHub\\MusicApplicationSpotifyRipOff\\MusicApplication\\MusicApplication.csproj",
+  "expectedPackageFiles": [],
+>>>>>>> Stashed changes
   "logs": []
 }
